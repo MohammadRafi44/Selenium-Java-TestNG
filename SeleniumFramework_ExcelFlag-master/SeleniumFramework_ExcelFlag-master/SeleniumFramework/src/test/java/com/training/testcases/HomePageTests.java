@@ -14,11 +14,11 @@ public class HomePageTests extends  BaseTest{
 
     WebDriver driver;
     
-    //Hi Rafi - sync Checkup
+    //Hi Rafi - sync Checkup 22
 
     /*@BeforeMethod
     public  void setUp() {
-//rafo
+
         System.setProperty("webdriver.chrome.driver", Constants.CHROMEDRIVERPATH);
         driver = new ChromeDriver();
         driver.get(JsonParser.getValue("config.global.url"));

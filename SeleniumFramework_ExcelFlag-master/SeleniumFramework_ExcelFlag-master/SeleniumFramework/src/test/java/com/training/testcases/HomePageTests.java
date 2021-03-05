@@ -13,6 +13,8 @@ import utils.JsonParser;
 public class HomePageTests extends  BaseTest{
 
     WebDriver driver;
+    
+    //Hi Rafi - sync Checkup
 
     /*@BeforeMethod
     public  void setUp() {

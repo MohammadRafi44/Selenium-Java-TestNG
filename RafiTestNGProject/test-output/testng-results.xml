@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7078" started-at="2021-03-05T13:54:14 AST" finished-at="2021-03-05T13:54:21 AST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7078" started-at="2021-03-05T13:54:14 AST" finished-at="2021-03-05T13:54:21 AST">
+      <class name="webPortal.GoogleTest">
+        <test-method status="PASS" signature="setupClass()[pri:0, instance:webPortal.GoogleTest@d44fc21]" name="setupClass" is-config="true" duration-ms="451" started-at="2021-03-05T13:54:14 AST" finished-at="2021-03-05T13:54:14 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:webPortal.GoogleTest@d44fc21]" name="setupTest" is-config="true" duration-ms="1715" started-at="2021-03-05T13:54:14 AST" finished-at="2021-03-05T13:54:16 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:webPortal.GoogleTest@d44fc21]" name="test1" duration-ms="4275" started-at="2021-03-05T13:54:16 AST" finished-at="2021-03-05T13:54:20 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:webPortal.GoogleTest@d44fc21]" name="tearDown" is-config="true" duration-ms="613" started-at="2021-03-05T13:54:20 AST" finished-at="2021-03-05T13:54:21 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- webPortal.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

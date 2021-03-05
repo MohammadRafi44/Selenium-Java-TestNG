@@ -18,7 +18,7 @@ public class HomePageTests extends  BaseTest{
 
     /*@BeforeMethod
     public  void setUp() {
-
+//rafo
         System.setProperty("webdriver.chrome.driver", Constants.CHROMEDRIVERPATH);
         driver = new ChromeDriver();
         driver.get(JsonParser.getValue("config.global.url"));
